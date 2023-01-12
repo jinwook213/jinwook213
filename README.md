@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<!--
-**jinwook213/jinwook213** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 Jinwook Lee
 Post-doctoral Researcher
 Department of Civil, Environmental and Architectural Engineering, 
