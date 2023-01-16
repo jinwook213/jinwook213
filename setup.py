@@ -8,7 +8,7 @@ setup(
     author = 'Jinwook Lee',
     author_email= 'jinwook213@cau.ac.kr',
     license = 'jinwook',
-    packages = ['Jinwook_My_Graph'],
+    packages = ['jinwook213'],
     zip_safe= False,
     #install_requires = ['numpy==1.18.3']
     
