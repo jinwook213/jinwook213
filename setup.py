@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(
-    name='MyGraph',
+    name='jinwook213',
     version='0.0.1',
     description='jinwook pakage test',
     url='https://github.com/jinwook213/jinwook213.git',
