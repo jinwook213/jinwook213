@@ -1,1 +1,1 @@
-from .MyGraph import *
+from MyGraph import *
