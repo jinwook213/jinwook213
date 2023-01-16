@@ -5,7 +5,7 @@ setup(
     version='0.0.1',
     description='jinwook pakage test',
     url='https://github.com/jinwook213/jinwook213.git',
-    author = 'Jinwook Lee',
+    author = 'Jinwook_Lee',
     author_email= 'jinwook213@cau.ac.kr',
     license = 'jinwook',
     packages = ['jinwook213'],
