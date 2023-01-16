@@ -10,7 +10,7 @@ setup(
     license = 'jinwook',
     packages = ['Jinwook_My_Graph'],
     zip_safe= False,
-    install_requires = ['numpy==1.18.3']
+    #install_requires = ['numpy==1.18.3']
     
 
 )
