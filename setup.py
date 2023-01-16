@@ -8,7 +8,7 @@ setup(
     author = 'Jinwook_Lee',
     author_email= 'jinwook213@cau.ac.kr',
     license = 'jinwook',
-    packages = setuptools.find_packages(),
+    packages = find_packages(),
     zip_safe= False,
     #install_requires = ['numpy==1.18.3']
     
