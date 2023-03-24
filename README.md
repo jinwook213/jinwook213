@@ -29,3 +29,5 @@ EDUCATION <br/>
   -	Advisor: Dr. Chulsang Yoo <br/>
 •	B.S., Department of Civil, Environmental and Architectural Engineering, February 2014 <br/>
   -	Korea University, Seoul, Korea <br/>
+
++) If you use the code in the repo, please cite an appropriate reference from https://scholar.google.co.kr/citations?user=mrKgYBsAAAAJ&hl=ko
