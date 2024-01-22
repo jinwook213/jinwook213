@@ -1,11 +1,10 @@
 ### Hi there 👋
 
 Jinwook Lee
-- Post-doctoral Researcher  <br/>
-- Department of Civil, Environmental and Architectural Engineering,  <br/>
-- College of Engineering, Chung-Ang University, Seoul, Republic of Korea  <br/>
-Mobile: +82-10-2570-9933  <br/>
-E-mail: jinwook213@cau.ac.kr, jinwook213@gmail.com <br/>
+- Post-doctoral Fellow  <br/>
+- Department of Civil and Environmental Engineering,  <br/>
+- College of Engineering, University of Hawaii at Manoa, Honolulu, HI 96822, USA  <br/>
+E-mail: jinwookl@hawaii.edu, jinwook213@gmail.com <br/>
  <br/>
 RESEARCH INTERESTS <br/>
 •	Hydrological Modeling and Parameter Estimation <br/>
